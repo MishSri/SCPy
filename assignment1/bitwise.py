@@ -1,0 +1,7 @@
+num1=int(input("Ente number 1: "))
+num2=int(input("Ente number 2: "))
+print(f"Bitwise and of {num1} and {num2} is: {num1 & num2}")
+print(f"Bitwise or of {num1} and {num2} is: {num1 | num2}")
+print(f"Bitwise xor of {num1} and {num2} is: {num1 ^ num2}")
+print(f"Bitwise left shift of {num1} and {num2} is: {num1 << num2}")
+print(f"Bitwise right shift of {num1} and {num2} is: {num1 >> num2}")
